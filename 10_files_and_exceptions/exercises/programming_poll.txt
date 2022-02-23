@@ -1,0 +1,4 @@
+Programmers can build almost anything they can imagine.
+It's really fun to be logical, and really satisfying.
+ It just never gets old. # I did not use rstrip() method during this run.
+I want to build my own J.A.R.V.I.S

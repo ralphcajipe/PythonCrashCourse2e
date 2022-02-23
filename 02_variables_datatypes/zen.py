@@ -1,0 +1,2 @@
+# Run only
+import this
