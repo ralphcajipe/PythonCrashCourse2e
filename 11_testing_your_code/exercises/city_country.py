@@ -8,6 +8,10 @@ while True:
     country = input("Please give the country: ")
     if country == 'q':
         break
+    population = input("Please give the population: ")
+    if population == 'q':
+        break
 
-    formatted_city_country = get_formatted_city_country(city, country)
+    formatted_city_country = get_formatted_city_country(city, country,
+                                                        population)
     print(f"\tNeatly formatted City, Country: {formatted_city_country}")
